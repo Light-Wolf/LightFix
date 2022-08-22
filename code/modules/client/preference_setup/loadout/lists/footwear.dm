@@ -55,27 +55,17 @@
 // Donator's shop
 //
 
-/datum/gear/shoes/clown_shoes
-	display_name = "clown shoes"
-	path = /obj/item/clothing/shoes/clown_shoes
-	price = 18
-
 /datum/gear/shoes/cyborg_shoes
 	display_name = "cyborg shoes"
 	path = /obj/item/clothing/shoes/cyborg
-	price = 2
+	price = 0
 
 /datum/gear/shoes/swimmingfins
 	display_name = "swimming fins"
 	path = /obj/item/clothing/shoes/swimmingfins
-	price = 5
+	price = 0
 
 /datum/gear/shoes/slippers
 	display_name = "bunny slippers"
 	path = /obj/item/clothing/shoes/slippers
-	price = 5
-
-/datum/gear/shoes/mime_shoes
-	display_name = "mime shoes"
-	path = /obj/item/clothing/shoes/mime
-	price = 12
+	price = 0

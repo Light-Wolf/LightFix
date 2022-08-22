@@ -38,11 +38,11 @@
 /datum/gear/gloves/boxing
 	display_name = "boxing gloves"
 	path = /obj/item/clothing/gloves/boxing
-	price = 12
+	price = 0
 
 /datum/gear/gloves/long_evening_gloves
 	display_name = "long evening gloves"
 	path = /obj/item/clothing/gloves/color/long_evening_gloves
-	price = 8
+	price = 0
 	flags = GEAR_HAS_COLOR_SELECTION
 	

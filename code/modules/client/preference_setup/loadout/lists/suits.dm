@@ -159,79 +159,79 @@
 /datum/gear/suit/pirate
 	display_name = "pirate suit"
 	path = /obj/item/clothing/suit/pirate
-	price = 15
+	price = 0
 
 /datum/gear/suit/cardborg
 	display_name = "cardborg suit"
 	path = /obj/item/clothing/suit/cardborg
-	price = 6
+	price = 0
 
 /datum/gear/suit/santa
 	display_name = "santa's suit"
 	path = /obj/item/clothing/suit/space/santa
-	price = 40
+	price = 0
 
 /datum/gear/suit/plaguedoctorsuit
 	display_name = "plague doctor suit"
 	path = /obj/item/clothing/suit/bio_suit/plaguedoctorsuit
-	price = 20
+	price = 0
 
 /datum/gear/suit/hgpirate
 	display_name = "pirate captain coat"
 	path = /obj/item/clothing/suit/hgpirate
-	price = 10
+	price = 0
 
 /datum/gear/suit/johnny_coat
 	display_name = "johnny coat"
 	path = /obj/item/clothing/suit/johnny_coat
-	price = 10
+	price = 0
 
 /datum/gear/suit/judgerobe
 	display_name = "judge's robe"
 	path = /obj/item/clothing/suit/judgerobe
-	price = 10
+	price = 0
 
 /datum/gear/suit/monkeysuit
 	display_name = "monkey suit"
 	path = /obj/item/clothing/suit/monkeysuit
-	price = 10
+	price = 0
 
 /datum/gear/suit/chickensuit
 	display_name = "chicken suit"
 	path = /obj/item/clothing/suit/chickensuit
-	price = 10
+	price = 0
 
 /datum/gear/suit/wizrobe_fake
 	display_name = "wizard robe"
 	path = /obj/item/clothing/suit/wizrobe/fake
-	price = 20
+	price = 0
 
 /datum/gear/suit/wizrobe_marisa_fake
 	display_name = "witch robe"
 	path = /obj/item/clothing/suit/wizrobe/marisa/fake
-	price = 20
+	price = 0
 
 /datum/gear/suit/ianshirt
 	display_name = "ian shirt"
 	path = /obj/item/clothing/suit/ianshirt
-	price = 5
+	price = 0
 
 /datum/gear/suit/punk_jacket_AC
 	display_name = "punk jacket black"
 	path = /obj/item/clothing/suit/storage/punk_jacket_AC
-	price = 20
+	price = 0
 
 /datum/gear/suit/punk_jacket_RD
 	display_name = "punk jacket raven"
 	path = /obj/item/clothing/suit/storage/punk_jacket_RD
-	price = 20
+	price = 0
 
 /datum/gear/suit/punk_jacket_TS
 	display_name = "punk jacket brown"
 	path = /obj/item/clothing/suit/storage/punk_jacket_TS
-	price = 20
+	price = 0
 
 /datum/gear/suit/fashionable_coat
 	display_name = "fashionable coat"
 	path = /obj/item/clothing/suit/storage/fashionable_coat
-	price = 20
+	price = 0
